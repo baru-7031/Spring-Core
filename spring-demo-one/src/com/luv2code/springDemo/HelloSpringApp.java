@@ -25,6 +25,7 @@ public class HelloSpringApp {
 		System.out.println();
 		System.out.println("Cricket Coach : " + Cricket.getDailyWorkout());
 		System.out.println(Cricket.getDailyFortune());
+//		System.out.println(Cricket.);
 		
 		//close the context
 		context.close();
